@@ -1,0 +1,26 @@
+{
+    "id": "A0000000",
+    "path": "C:/Users/Lenovo/OpenHPI/Woche 4 - Grafiken/R22_4.6_Verteilungsplots/R46_Verteilungsplots_1.R",
+    "project_path": "R46_Verteilungsplots_1.R",
+    "type": "r_source",
+    "hash": "83406782",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "66,45",
+        "scrollLine": "49"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1682845495,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1682845495620,
+    "read_only": false,
+    "read_only_alternatives": []
+}

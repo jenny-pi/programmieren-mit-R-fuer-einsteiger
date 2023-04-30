@@ -1,0 +1,26 @@
+{
+    "id": "A0000001",
+    "path": "C:/Users/Lenovo/OpenHPI/Woche 3 - Tabellen/R22_3.3_Einlesen/R33_Einlesen_2.R",
+    "project_path": "R33_Einlesen_2.R",
+    "type": "r_source",
+    "hash": "1342679715",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "47,93",
+        "scrollLine": "33"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1682843878,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1682843878055,
+    "read_only": false,
+    "read_only_alternatives": []
+}
